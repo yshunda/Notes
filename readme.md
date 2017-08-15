@@ -5,6 +5,6 @@
 
 > **博客目的:** 学习.分享.交流.进步
 # 正文
-* [工作中你或许可以用到的一些轻量级.优秀的工具库和插件,长期更新中,欢迎Star]( https://github.com/yshunda/blog/issues/1)	
+* [工作中你或许可以用到的一些轻量级.优秀的工具库和插件,长期更新中,欢迎Star]( https://github.com/yshunda/blog/issues/1)最近编辑于:2017/8/15
 
 [回到顶部](#readme)
