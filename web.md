@@ -11,7 +11,7 @@
 ### 前端工程师是做什么的？
 [前端工程师](https://zh.wikipedia.org)是互联网时代软件产品研发中不可缺少的一种专业研发角色。从狭义上讲，前端工程师使用 HTML、CSS、JavaScript 等专业技能和工具将产品UI设计稿实现成网站产品，涵盖用户PC端、移动端网页，处理视觉和交互问题。从广义上来讲，所有用户终端产品与视觉和交互有关的部分，都是前端工程师的专业领域。2005年的时候大多数网页长这样：
 
-!["banner"](https://dn-h5jun.qbox.me/site2005.jpg)
+!["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-01.jpg)
 
 
 现在的网页一般是这样的：
