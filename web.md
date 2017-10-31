@@ -35,7 +35,7 @@
 
 JavaScript在最热编程语言 TOP10
 
-!["banner"](https://p5.ssl.qhimg.com/d/inn/4b1c433a/feer.jpg)
+!["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-05.jpg)
 
 近几年互联网公司前端团队每年扩张一倍
 
