@@ -49,23 +49,23 @@ JavaScript工程师平均薪水排名在程序语言工程师收入前10
 ### 前端工程师需要什么样的知识和技能？
 有人说前端工程师的技术栈是这样的：
 
-!["test"](https://dn-h5jun.qbox.me/matrix/ScIvE9XtjE2ITnqQ5f9njW8o.jpg)
+!["test"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-07.jpg)
 
 还有人说是这样的：
-!["test"](https://dn-h5jun.qbox.me/matrix/Hn_m6DWEBEeQ-7FPT0ZzuYXK.jpg)
+!["test"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-08.jpg)
 
 实际上前端工程师最核心的技能还是：
 
-!["test"](https://p5.ssl.qhimg.com/d/inn/3e83de98/html_css_js.png)
+!["test"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-09.png)
 
 在一个典型的互联网公司的产品研发流程中，前端工程师和其他角色的关系大致上是这样的：
 
-!["test"](https://dn-h5jun.qbox.me/fe2009.png)
+!["test"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-10.png)
 
 前端是最接近产品和设计的工程师，起到衔接产品和技术的作用，前端为用户可以看到的部分负责，所以也是最接近用户的工程师。
 在多终端的时代，如果一个产品同时支持PC、移动端，前端工程师还需要和更多的角色打交道：
 
-!["test"](https://dn-h5jun.qbox.me/fe2014.png)
+!["test"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-11.png)
 
 *JavaScript* 对于前端是最重要的技能，所以优秀的前端工程师要有扎实的JavaScript基本功。而JavaScript这门编程语言也是目前程序设计领域炙手可热的宠儿，如今的它不仅仅只是用来开发Web，还可以用在各个方面。
 
