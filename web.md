@@ -40,7 +40,7 @@ JavaScript在最热编程语言 TOP10
 近几年互联网公司前端团队每年扩张一倍
 
 
-!["banner"](https://p5.ssl.qhimg.com/d/inn/c5389e4d/income.jpg)
+!["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-06.jpg)
 
 
 JavaScript工程师平均薪水排名在程序语言工程师收入前10
