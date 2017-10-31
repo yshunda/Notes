@@ -4,7 +4,7 @@
 !["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/bannner-home.png)
 ### 正文
 
-* ["写给想成为前端工程师的同学们"，转载自十年踪迹的博客]
+* ["写给想成为前端工程师的同学们"，转载自十年踪迹的博客](https://github.com/yshunda/Notes/issues/5)最近提交于:2017/10/31
 
 * [什么是"类Unix"操作系统以及它为什么这么重要?](https://github.com/yshunda/Notes/issues/4) 最近提交于:2017/10/22
 
