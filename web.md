@@ -30,7 +30,7 @@
 
 近年来最流行的编程语言很多都是JavaScript替代语言
 
-!["banner"](https://dn-h5jun.qbox.me/js_rank.png)
+!["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-04.png)
 
 
 JavaScript在最热编程语言 TOP10
