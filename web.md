@@ -26,7 +26,7 @@
 - 行业对前端需求量持续增加，前端程序员薪水在行业里面处于较领先的位置。
 
 
-!["banner"](https://p5.ssl.qhimg.com/d/inn/e2e34a1f/56B63D2C-3697-4DE6-B8CD-ED1EADB63392.png)
+!["banner"](https://raw.githubusercontent.com/yshunda/Notes/master/images/web-03.png)
 
 近年来最流行的编程语言很多都是JavaScript替代语言
 
