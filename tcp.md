@@ -2,12 +2,12 @@
 > date:2017/11/26 12:31:26
 
 ### 前言:
-本文分别介绍 TCP/IP 四层模型和 OSI 七层模型的概念，对应关系，每层含义以及两者的区别。在了解两者相关概念前，先看看两者之间的对应关系，如下图所示：
+本文分别介绍 TCP/IP四层模型和OSI七层模型的概念,对应关系,每层含义以及两者的区别。在了解两者相关概念前，先看看两者之间的对应关系，如下图所示：
 !['banner'](https://raw.githubusercontent.com/yshunda/Notes/master/images/TCPIPOSI.png)
 
 ### OSI七层模型
 OSI模型，即开放式通信系统互联参考模型(Open System Interconnection,OSI/RM,Open Systems Interconnection Reference Model)，是国际标准化组织(ISO)提出的一个试图使各种计算机在世界范围内互连为网络的标准框架，简称OSI。
-
+!['banner'](https://raw.githubusercontent.com/yshunda/Notes/master/images/OSI.png)
 `
         在制定计算机网络标准方面，起着重大作用的两大国际组织是：国际电信联盟电信标准化部门（CCITT），与国际标准组织（ISO），虽然它们工作领域不同，但随着科学技术的发展，通信与信息处理之间的界限开始变得比较模糊，这也成了CCITT和ISO共同关心的领域。1983年，ISO发布了著名的ISO/IEC 7498标准，它定义了网络互联的7层框架，也就是开放式系统互联参考模型。
 `
@@ -26,3 +26,7 @@ OSI模型，即开放式通信系统互联参考模型(Open System Interconnecti
 分为两个子层：逻辑链路控制（logic link control，LLC）子层和介质访问控制（media access control，MAC）子层。
 #### 物理层
 物理层（Physical Layer）在局部局域网上传送帧，它负责管理电脑通信设备和网络媒体之间的互通。包括了针脚、电压、线缆规范、集线器、中继器、网卡、主机适配器等
+### TCP/IP四层模型
+互联网协议族（英语：Internet Protocol Suite，缩写IPS）是一个网络通信模型，以及一整个网络传输协议家族，为互联网的基础通信架构。它常被通称为TCP/IP协议族（英语：TCP/IP Protocol Suite，或TCP/IP Protocols），简称TCP/IP。TCP（传输控制协议）和IP（网际协议），为该家族中最早通过的标准。
+TCP/IP提供点对点的链接机制，将数据应该如何封装、定址、传输、路由以及在目的地如何接收，都加以标准化。它将软件通信过程抽象化为四个抽象层，采取协议堆栈的方式，分别实现出不同通信协议。协议族下的各种协议，依其功能不同，被分别归属到这四个层次结构之中，常被视为是简化的七层OSI模型。TCP/IP模型各个层次的功能和协议如下：
+!['banner']()
